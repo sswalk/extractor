@@ -5,7 +5,7 @@ A simple and straightforward utility to extract multiple .zip files at once, usi
 
 -----------------------------------------
 
-🧩 HOW TO USE:
+ HOW TO USE:
 1. Double-click the `zip-extractor.exe` file.
 2. Select the folder containing the `.zip` files.
 3. The app will automatically extract all files into separate folders.
