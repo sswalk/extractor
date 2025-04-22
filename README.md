@@ -20,3 +20,7 @@ Runs directly on Windows — no Python or installation needed.
 
 🛠️ Built with Python + PyInstaller
 🌐 Available at: github.com/sswalk/extractor
+
+## 📥 Download
+
+[👉 Click here to download ZIP Extractor (Windows EXE)](https://github.com/your-usuario/zip-extractor/releases/download/v1.0/zip-extractor.exe)
