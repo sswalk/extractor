@@ -18,5 +18,5 @@ Runs directly on Windows — no Python or installation needed.
 
 -----------------------------------------
 
-🛠️ Built with Python + PyInstaller
-🌐 Available at: github.com/sswalk/extractor
+ Built with Python 
+ Available at: github.com/sswalk/extractor
