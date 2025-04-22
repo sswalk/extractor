@@ -23,4 +23,4 @@ Runs directly on Windows — no Python or installation needed.
 
 ## 📥 DownloadS
 
-[ Click here to download >>> (Windows EXE)]([⬇️ Download the latest executable](https://github.com/sswalk/extractor/raw/main/release/tool.exe))
+[ Click here to download >>> (Windows EXE)]([Download the latest executable](https://github.com/sswalk/extractor/raw/main/release/tool.exe))
