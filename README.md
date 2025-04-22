@@ -21,6 +21,10 @@ Runs directly on Windows — no Python or installation needed.
  Built with Python
 🌐 Available at: github.com/sswalk/extractor
 
-## 📥 DownloadS
+##  Downloads
 
 [ Click here to download >>> (Windows EXE)] ([Download the latest executable](https://github.com/sswalk/extractor/raw/main/release/tool.exe))
+
+
+Follow me on ig: @fumeiavadia
+Discord: bfxa
