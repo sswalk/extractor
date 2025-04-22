@@ -19,4 +19,5 @@ Runs directly on Windows — no Python or installation needed.
 -----------------------------------------
 
  Built with Python 
+ 
  Available at: github.com/sswalk/extractor
